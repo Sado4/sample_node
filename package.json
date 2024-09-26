@@ -1,0 +1,16 @@
+{
+  "name": "pj-youtube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.7.0",
+    "http": "^0.0.1-security"
+  }
+}
